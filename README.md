@@ -8,9 +8,7 @@ Map content:
   - Gives 120050 experience points.
   - You can change an amount of experience by editing the \*.experience.nis file.
 - Black and White Mages
-  - Allow you to edit the hero's perks.
-  - Move White Mage in the direction of Black Mage to maximize the corresponding perk.
-  - Move Black Mage in the direction of White Mage to minimize the corresponding perk.
+  - Use the White Mage to maximize the hero's perk and the Black Mage to minimize it.
 
 Installation:
 - Copy the contents of the archive to the Scenario directory.
