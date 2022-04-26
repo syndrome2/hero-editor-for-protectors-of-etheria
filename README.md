@@ -6,9 +6,9 @@ Map content:
   - Creates a grid consisting of all items in the game.
 - Magic Circle (2)
   - Gives 120050 experience points.
-  - You can change an amount of experience by editing the \*.experience.nis file.
-- Black and White Mages
-  - Use the White Mage to maximize the hero's perk and the Black Mage to minimize it.
+  - You can change the amount of experience by editing the \*.experience.nis file.
+- Wizards
+  - They can change your hero's perks.
 
 Installation:
 - Copy the contents of the archive to the Scenario directory.
