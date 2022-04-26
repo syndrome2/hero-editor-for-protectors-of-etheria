@@ -1,1 +1,1 @@
-# hero-editor-for-protectors-of-etheria
+# hero editor for protectors of etheria
